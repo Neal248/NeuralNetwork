@@ -1,0 +1,15 @@
+{
+  "arch": "x86_64",
+  "build": "h21ff451_4",
+  "build_number": 4,
+  "depends": [
+    "tensorflow-base 1.13.1 py36_4"
+  ],
+  "license": "Apache 2.0",
+  "license_family": "Apache",
+  "name": "tensorflow",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1566783678639,
+  "version": "1.13.1"
+}
